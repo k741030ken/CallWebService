@@ -39,7 +39,7 @@ namespace CallWebService.Libray.Service.Template.Tests
                 },
             };
                 user.Citys = citys;
-                var templateService = CallWebService.Libray.Service.CallWebServiceFactory.Instance().templateService;
+                var templateService = CallWebService.Libray.Service.CallWebServiceFactory.Instance().TemplateService;
                 var data = templateService.GetBikeAvailabilityData(user);
                 if (data.IsSuccess)
                 {

@@ -46,7 +46,7 @@ namespace CallWebService.Libray.Service
         /// <summary>
         /// 取得目前的ItemService
         /// </summary>
-        public ITemplateService templateService
+        public ITemplateService TemplateService
         {
             get
             {
