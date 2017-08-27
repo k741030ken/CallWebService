@@ -1,0 +1,12 @@
+C:\Users\YSHuang\Desktop\ShopeeLibray\Shopee\ShopeeLibray\obj\Debug\Shopee.Libray.csprojResolveAssemblyReference.cache
+C:\Users\YSHuang\Desktop\ShopeeLibray\Shopee\ShopeeLibray\bin\Debug\ShopeeLibray.dll.config
+C:\Users\YSHuang\Desktop\ShopeeLibray\Shopee\ShopeeLibray\bin\Debug\ShopeeLibray.dll
+C:\Users\YSHuang\Desktop\ShopeeLibray\Shopee\ShopeeLibray\bin\Debug\ShopeeLibray.pdb
+C:\Users\YSHuang\Desktop\ShopeeLibray\Shopee\ShopeeLibray\bin\Debug\Newtonsoft.Json.dll
+C:\Users\YSHuang\Desktop\ShopeeLibray\Shopee\ShopeeLibray\bin\Debug\Newtonsoft.Json.xml
+C:\Users\YSHuang\Desktop\ShopeeLibray\Shopee\ShopeeLibray\obj\Debug\ShopeeLibray.dll
+C:\Users\YSHuang\Desktop\ShopeeLibray\Shopee\ShopeeLibray\obj\Debug\ShopeeLibray.pdb
+C:\Users\YSHuang\Desktop\ShopeeLibray\Shopee\ShopeeLibray\bin\Debug\RestSharp.dll
+C:\Users\YSHuang\Desktop\ShopeeLibray\Shopee\ShopeeLibray\bin\Debug\RestSharp.xml
+C:\Users\YSHuang\Desktop\ShopeeLibray\Shopee\ShopeeLibray\bin\Debug\Common.dll
+C:\Users\YSHuang\Desktop\ShopeeLibray\Shopee\ShopeeLibray\bin\Debug\Common.pdb
