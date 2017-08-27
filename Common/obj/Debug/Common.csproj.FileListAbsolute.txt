@@ -12,3 +12,16 @@ C:\Users\YSHuang\Desktop\RESTfulWebService\Common\bin\Debug\Newtonsoft.Json.xml
 C:\Users\YSHuang\Desktop\RESTfulWebService\Common\obj\Debug\Common.dll
 C:\Users\YSHuang\Desktop\RESTfulWebService\Common\obj\Debug\Common.pdb
 C:\Users\YSHuang\Desktop\RESTfulWebService\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\GitHub\RESTfulWebService\Common\bin\Debug\Common.dll
+D:\GitHub\RESTfulWebService\Common\bin\Debug\Common.pdb
+D:\GitHub\RESTfulWebService\Common\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\RESTfulWebService\Common\bin\Debug\Newtonsoft.Json.xml
+D:\GitHub\RESTfulWebService\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\GitHub\RESTfulWebService\Common\obj\Debug\Common.dll
+D:\GitHub\RESTfulWebService\Common\obj\Debug\Common.pdb
+D:\GitHub\CallWebService\Common\bin\Debug\Common.dll
+D:\GitHub\CallWebService\Common\bin\Debug\Common.pdb
+D:\GitHub\CallWebService\Common\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\CallWebService\Common\bin\Debug\Newtonsoft.Json.xml
+D:\GitHub\CallWebService\Common\obj\Debug\Common.dll
+D:\GitHub\CallWebService\Common\obj\Debug\Common.pdb
